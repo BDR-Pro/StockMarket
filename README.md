@@ -66,4 +66,3 @@ curl http://localhost:5000/stock
 This simulator is a simplified representation designed for educational purposes. Real-world trading systems involve more complex considerations such as market liquidity, transaction security, and regulatory compliance.
 
 ----
-<video controls src="stockmarket.mp4" title="Title"></video>
